@@ -27,7 +27,7 @@ spec:
   type: git
   params:
     - name: url
-      value: https://gitlab.tmrnd.com.my/ahmadkarim/vote-ui.git
+      value: https://github.com/karimbzu/vote-ui.git
 ---
 apiVersion: tekton.dev/v1alpha1
 kind: PipelineResource

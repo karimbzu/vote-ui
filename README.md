@@ -1,1 +1,1 @@
-# Voting app for Tekton Pipeline OK lets see
+# Voting app for Tekton Pipeline OK
